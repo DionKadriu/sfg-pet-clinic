@@ -19,6 +19,8 @@
     <name>sfg-pet-clinic</name>
     <description>SFG Pet clinic project</description>
     <properties>
+        <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
+
         <java.version>11</java.version>
     </properties>
 
